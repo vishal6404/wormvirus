@@ -4,7 +4,7 @@ email=input("ENTER ANY EMAIL ID: ")
 for i in range(1,21):
     server=smtplib.SMTP("smtp.gmail.com","587")
     server.starttls()
-    server.login("coolv926@gmail.com","@#9693344711@#")
+    server.login("coolv926@gmail.com","9693344711")
     message="Your mail has been affected by worm virus ;) tc"#input("your message:- ")
     n=25#int(input("No. of time wanna send msg.:- "))
  
