@@ -6,6 +6,9 @@ https://myaccount.google.com/lesssecureapps
 
 go to this and turn it on after this mail id can be connected.
 
+## If you do not want to turn off 2 factor authentication 
+create app password for your google account
+
 Make some changes in the code, i will write the line number and the changes
 
 7)    server.login("coolv926@gmail.com","9693344711") //server.login("your Email","Password")
